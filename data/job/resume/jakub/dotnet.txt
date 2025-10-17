@@ -1,0 +1,42 @@
+Jakub Marczynski
+Poland | jakubmarczynski509@gmail.com | linkedin.com/in/jakub926
+Skills
+Languages & Frameworks: C#, .NET, Java, Spring Boot, Kotlin, Groovy, Python, FastAPI, Django, Node.js, Go, Angular,
+React/Next.js, Vue
+Database: MS SQL, PostgreSQL, Oracle, MongoDB, Cassandra, Elasticsearch, Redis
+Cloud: Azure, AWS, GCP
+Technologies & Tools: Maven, Gradle, Kafka, RabbitMQ, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, Github Actions,
+Gitlab CI/CD, Azure Pipelines, Postman, gRPC, OpenAPI, Swagger, Jira, Agile, Scrum, GraphQL
+Experience
+Senior Backend Engineer, Team Lead, Zalando October 2018 – June 2025
+● Engineered and Supported 5+ backend systems, RESTful APIs and microservices using C#, Java, Node.js and Go with
+leveraging SQL and NoSQL databases.
+● Architected and deployed high-capacity payment system, leveraging C#, .NET, Kafka, and Redis, successfully handling over 1
+million transactions on day one.
+● Redesigned the pricing service for payments using TypeScript, Angular, GraphQL, .NET, and Azure.
+● Built a cloud-based solution using Azure services that resulted in a 30% reduction in infrastructure costs and a 20% increase
+in system reliability.
+● Established efficient CI/CD pipelines using Docker, Kubernetes, Jenkins, Terraform, Ansible and Github Actions, and utilized
+Azure AKS for seamless cloud-based containerization.
+● Worked closely with cross-functional teams to define API and webhook schemas and integrate third-party services.
+● Conducted onboarding and training for 10+ developers, focusing on secure payment processing and clean coding techniques,
+resulting in enhanced code quality and security compliance.
+Senior Backend Developer, Accenture March 2017 – August 2018
+● Developed and maintained the .NET backend in microservice architecture to support new product lines.
+● Formulated robust authentication and permission management systems, strengthening security and access control in the
+application.
+● Integrated third-party APIs and Azure Services into the applications, and also integrated with Microservices as well as the
+Machine Learning models into the applications using Azure Functions.
+● Administered an error handling, logging, and tracking system utilizing Azure Monitor, Functions, Service Bus, and Datadog for
+monitoring and troubleshooting.
+● Launched a utility tool to verify user distribution accuracy for AB testing, applying complex distribution rules with ABAC
+integration, resulting in more reliable test outcomes and a 15% increase in conversion rate.
+Backend Developer, Butterfly Network, Inc. June 2015 – February 2017
+● Solved various internal tools and services including financial reporting, budgeting, and forecasting using C#, .NET and
+Angular.
+● Implemented back-end logic with Java using technologies including Collection Framework, Multi-Threading.
+● Designed and implemented low-latency, high-availability, and performant applications.
+● Created a single page application using HTML5, JavaScript/TypeScript, Angular and customized the web features by CSS3 and
+Bootstrap.
+Education
+Texas Tech University – Bachelor’s Degree, Computer Science September 2011 – May 2015

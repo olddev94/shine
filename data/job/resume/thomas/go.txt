@@ -1,0 +1,94 @@
+Thomas Pappas
+Senior Go Software Engineer
+727-339-0767
+thomas.marklin.pappas@outlook.com
+www.linkedin.com/in/thomas-marklin-pappas
+Plant City, FL
+SUMMARY
+Experienced Software Engineer with 9+ years specializing in Go/Golang and distributed systems architecture. Expert in
+building high-performance microservices, concurrent systems, and cloud-native applications handling millions of requests.
+Proficient in modern Go frameworks (Gin, Echo, Fiber), gRPC, and event-driven architectures. Strong background in
+Java/Spring Boot and Python, with proven ability to migrate legacy systems to Go-based solutions. Passionate about writing
+efficient, idiomatic Go code that scales.
+SKILLS
+Languages & Frameworks: Go/Golang, gRPC, Protocol Buffers, Gin, Echo, Fiber, Go-kit, Java, Spring Boot, Python,
+JavaScript, Node.js, React
+Database: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Oracle, Cassandra, DynamoDB, InfluxDB
+Cloud & Infrastructure: AWS (EC2, S3, RDS, Lambda, EKS, …), GCP (GKE, Cloud SQL, Cloud Pub/Sub, …), Docker,
+Kubernetes, Consul, etcd
+Technologies & Tools: Goroutines, Channels, Context, Prometheus, Grafana, Kafka, RabbitMQ, NATS, Jenkins, GitHub
+Actions, Terraform, Make, Go Modules, Git
+WORK EXPERIENCE
+SENIOR SOFTWARE ENGINEER - Airbnb / San Francisco, CA - Jul 2021 – Present
+I drove contributions to two of Airbnb's most transformative product launches, from fundamentally re-architecting core
+user discovery with Airbnb Categories (2022 Summer Release) to driving global brand resonance by launching the
+culturally-defining Icons category (2024 Summer Release).
+• Architected Icons platform lottery system (2024) in Go, handling 100K+ concurrent entries using goroutines and
+channel-based fan-out/fan-in patterns, processing 5M+ total entries with sub-50ms response times
+• Built high-throughput event processing pipeline using Go, Kafka, and PostgreSQL for celebrity experience launches
+(Up house, X-Mansion), achieving 500K messages/second throughput
+• Implemented distributed rate limiting service in Go using Redis and sliding window algorithm, preventing system
+overload during viral marketing campaigns with 300%+ traffic spikes
+• Migrated legacy Java category classification service to Go microservices, reducing memory footprint by 70% and
+improving response times from 800ms to 120ms through efficient concurrent processing
+• Developed gRPC-based internal APIs for inter-service communication, replacing REST endpoints and reducing
+network overhead by 40% across 15 engineering teams
+• Created custom Go middleware for distributed tracing and monitoring, integrating with Datadog to track performance
+across 50M+ daily browsing sessions
+• Built resilient booking orchestration service using Go's context package for timeout management and circuit breakers,
+maintaining 99.99% uptime for $75B+ annual transactions
+• Optimized Split Stays feature backend using Go's concurrency primitives to parallelize multi-property availability
+checks, reducing booking confirmation time by 60%
+• Implemented Go-based ML inference service wrapper for property classification, achieving 10x throughput
+improvement over Python implementation
+• Mentored team on Go best practices and idiomatic patterns, conducting code reviews focused on goroutine safety
+and memory optimization
+SENIOR SOFTWARE ENGINEER - Brex / San Francisco, CA - Jun 2017 – May 2021
+I joined this fintech startup in its early stages, when ideas were still taking shape, as one of the first-generation engineers.
+My role involved translating complex financial business logic into code and developing Brex.com along with user
+dashboards.
+• Designed and implemented core payment processing system in Go, handling ACH/wire transfers with exactly-oncesemantics using distributed transactions and idempotent keys
+• Built real-time ledger service processing $100M+ monthly volume, leveraging Go's concurrency model to achieve sub-
+100ms transaction recording with strong consistency guarantees
+• Migrated critical Java Spring services to Go microservices architecture, reducing infrastructure costs by 50% and
+improving p99 latency from 2s to 200ms
+• Developed WebSocket server in Go for real-time balance updates, supporting 10K+ concurrent connections per
+instance using goroutines and epoll
+• Created fraud detection pipeline using Go workers and Redis queues, analyzing transaction patterns in real-time to
+prevent unauthorized charges
+• Implemented Plaid API integration layer in Go with robust retry logic and circuit breakers, enabling instant bank
+account verification for onboarding
+• Built RESTful APIs using Gin framework for card controls and spending limits, serving React dashboard with consistent
+sub-100ms response times
+• Established Go service template with structured logging, metrics collection, and graceful shutdown patterns adopted
+across engineering organization
+SOFTWARE ENGINEER - SHEIN / Los Angeles, CA - Mar 2015 – May 2017
+During my time at SHEIN, the company was focused on driving innovation through new technologies. To meet growing
+user demand for better services and a more seamless experience, we redesigned the customer-facing website and
+upgraded the backend infrastructure with a microservices architecture.
+• Developed Lightning Deals service handling 50K+ concurrent users during flash sales, using Go's net/http and
+goroutine pools for efficient request handling
+• Built inventory management system with optimistic locking in Go and Redis, preventing overselling during high-traffic
+events with 99.9% accuracy
+• Created product review microservice in Go replacing PHP monolith, implementing pagination and caching strategies
+that reduced database load by 85%
+• Implemented WebSocket server for real-time deal notifications, managing connection state for 100K+ simultaneous
+users with minimal memory overhead
+• Containerized Go services with Docker, implementing health checks and graceful shutdown for zero-downtime
+deployments during peak sales
+SOFTWARE ENGINEER - Intel / Santa Clara, CA - Jun 2014 – Feb 2015
+I began my professional journey at Intel where I had the privilege of working with industry leaders who prioritized product
+excellence and spearheaded advancements in cloud technology.
+• Authored low-level validation tests in C and assembly for Intel® Virtualization Technology (VT-x) on next-gen Xeon
+processors, analyzing complex hardware specifications
+• Discovered critical silicon bug during pre-production testing through systematic debugging, communicating findings to
+cross-functional teams and enabling timely microcode patch
+• Designed thin hypervisor to stress-test nested VM scenarios, presenting test results in weekly team reviews and
+incorporating feedback from experienced engineers
+• Collaborated with hardware design teams in Oregon to reproduce and document edge cases, translating technical
+findings into actionable bug reports
+• Enhanced validation coverage by contributing to technical reviews and knowledge-sharing sessions, accelerating
+expertise development in processor architecture
+EDUCATION
+UNIVERSITY OF FLORIDA - Gainesville, FL - May 2014
+• Bachelor’s Degree, Computer Science

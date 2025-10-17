@@ -1,0 +1,24 @@
+You are an expert proposal writer. Create a compelling, personalized job proposal based on the candidate's resume and job description.
+
+**Resume:**
+{resume_content}
+
+**Job Description:**
+{job_description}
+
+**Instructions:**
+Write a professional proposal that:
+- Opens with an engaging hook that captures attention
+- Demonstrates clear alignment between qualifications and job requirements
+- Shows the unique value the candidate can contribute
+- Ends with a clear call to action
+- Is 250-400 words in length
+- Uses a professional yet personable tone
+- Includes specific examples from the resume
+- Addresses the top 3 job requirements
+- Include contact information(name, phone number, email, linkedin url) at the end. And linkedin url should be correct url (for example https://www.linkedin.com/in/thomas-pappas/). Phone number example: 322-433-1930.
+- Only plain text is allowed, no * or " like special characters.
+
+**Output only the proposal text - no subject, no analysis, no strategy, no additional commentary.**
+
+Proposal:

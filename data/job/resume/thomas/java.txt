@@ -1,0 +1,96 @@
+Thomas Pappas
+Senior Java Software Engineer
+727-339-0767
+thomas.marklin.pappas@outlook.com
+www.linkedin.com/in/thomas-marklin-pappas
+Plant City, FL
+SUMMARY
+Experienced Software Engineer with 9+ years of experience in Java/J2EE, Python, JavaScript, and full-stack development.
+Proficient in building scalable solutions from core banking systems to high-traffic e-commerce platforms using Java-based
+microservices architecture, distributed systems, and cloud technologies (AWS, Docker, Kubernetes). Skilled in backend
+frameworks (Spring Boot, Spring Cloud, Node.js) and frontend technologies (React, Angular, Vue). Committed to delivering
+high-impact software that drives business growth and enhances user experience.
+SKILLS
+Languages & Frameworks: Java, J2EE, Spring Boot, Spring Framework, Hibernate, JPA, Kotlin, Groovy, Grails, Python,
+JavaScript, Node.js, React, Angular, Vue.js, Go, C/C++, REST APIs, GraphQL, Microservices Architecture
+Database: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Oracle
+Cloud: AWS (EC2, S3, RDS, Lambda, EKS, …), GCP (GKE, Cloud SQL, Cloud Pub/Sub, …), Docker, Kubernetes
+Technologies & Tools: Maven, Gradle, Kafka, RabbitMQ, Jenkins, Git, GitHub Actions, GitLab CI/CD, Terraform, IntelliJ
+IDEA, JIRA, Agile, Scrum, TDD, Postman, Swagger
+WORK EXPERIENCE
+SENIOR SOFTWARE ENGINEER - Airbnb / San Francisco, CA - Jul 2021 – Present
+I drove contributions to two of Airbnb's most transformative product launches, from fundamentally re-architecting core
+user discovery with Airbnb Categories (2022 Summer Release) to driving global brand resonance by launching the
+culturally-defining Icons category (2024 Summer Release).
+• Led technical development for Icons platform (2024), Airbnb's cultural marketing initiative featuring extraordinary
+experiences (floating Up house, 2D X-Mansion, Ferrari Museum stays), designing lottery system handling 100K+ daily
+entries (5M+ total) using event-driven architecture with Kafka and PostgreSQL
+• Created modular CMS for Icons category featuring 11 limited-edition celebrity/movie-themed stays (Up house, XMansion, etc.), enabling marketing teams to update listings without deployments and reducing time-to-market by 75%
+• Orchestrated zero-downtime deployment strategy coordinating 15 engineering teams across 3 time zones, managing
+300%+ traffic spikes during launches while maintaining 99.99% uptime
+• Architected Airbnb's largest platform transformation (2022), replacing destination-based search with category-driven
+discovery system serving 150M+ users globally across 56 curated categories (Treehouses, Castles, OMG!)
+• Engineered Split Stays feature enabling multi-property bookings for extended trips, increasing inventory availability by
+40% through complex reservation orchestration across multiple hosts using distributed transaction management
+• Constructed high-performance GraphQL service layer and frontend modules for category browsing interface,
+achieving sub-200ms load times with 10x increase in homepage content through Redis caching and CDN optimization
+• Implemented ML-powered property classification pipeline using Java, Spring Boot, and Elasticsearch, processing 6M+
+listings with 95%+ accuracy through computer vision and NLP analysis
+• Deployed real-time monitoring dashboards tracking global metrics and enabling rapid incident response, supporting
+50M+ daily browsing sessions and 3M+ transactions
+• Maintain 10+ critical microservices processing $75B+ in annual bookings with 99.9% SLA, integrating with 20+ global
+banking partners and supporting 190+ currencies
+• Mentor team of 5 engineers through code reviews and 1:1s, facilitating 3 promotions and 20% improvement in team
+velocity through established best practices
+• Champion accessibility initiatives ensuring WCAG 2.1 AA compliance across all features, enabling support for 40+
+languages and improving platform usability for users with disabilities
+SENIOR SOFTWARE ENGINEER - Brex / San Francisco, CA - Jun 2017 – May 2021
+I joined this fintech startup in its early stages, when ideas were still taking shape, as one of the first-generation engineers.
+My role involved translating complex financial business logic into code and developing Brex.com along with user
+dashboards.• Spearheaded and launched Brex Cash integration into existing dashboard, transforming single-product platform into
+comprehensive financial operating system serving 10,000+ businesses with billions in assets under management
+• Constructed secure money movement infrastructure using Java Spring Boot, implementing ACH/wire payment rails
+with idempotent transaction processing and fraud prevention protocols that handled $100M+ in monthly transaction
+volume
+• Delivered unified financial dashboard in React displaying both credit and cash account balances, creating seamless
+UX for dual-product platform that increased customer retention by 40%
+• Built real-time transaction ledger system with Java microservices and PostgreSQL, ensuring sub-second updates for
+all financial activities across credit and cash products
+• Pioneered original Brex onboarding flow and dashboard from zero, launching company's first user-facing product that
+acquired initial 1,000+ customers
+• Automated underwriting system integrating Plaid API with Java backend services, reducing credit decision time from
+weeks to under 10 minutes while maintaining risk compliance
+• Optimized asynchronous data processing pipeline analyzing live cash flow and spending patterns, enabling instant
+credit limit calculations for startup customers
+• Shipped RESTful endpoints and interactive dashboards for core banking features including transaction feeds, card
+controls, and account management, laying foundation for all future product expansions
+SOFTWARE ENGINEER - SHEIN / Los Angeles, CA - Mar 2015 – May 2017
+During my time at SHEIN, the company was focused on driving innovation through new technologies. To meet growing
+user demand for better services and a more seamless experience, we redesigned the customer-facing website and
+upgraded the backend infrastructure with a microservices architecture.
+• Crafted Lightning Deals microservice handling 50K+ concurrent users, collaborating with senior engineers to
+implement real-time inventory management using Java Spring Boot and WebSocket integration
+• Migrated product review system from monolithic to microservice architecture, partnering with architects to design APIs
+and implement Redis caching that reduced load times by 85%
+• Produced responsive JavaScript Lightning Deals module through iterative development with design and product
+teams, driving 3x increase in click-through rates and $10M+ incremental revenue
+• Containerized services with Docker and implemented container orchestration, achieving 99.9% uptime during peak
+sales through infrastructure best practices
+• Contributed to architecture review sessions, providing feedback on design patterns, introducing circuit breaker
+patterns and health checks that improved system resilience during traffic spikes
+SOFTWARE ENGINEER - Intel / Santa Clara, CA - Jun 2014 – Feb 2015
+I began my professional journey at Intel where I had the privilege of working with industry leaders who prioritized product
+excellence and spearheaded advancements in cloud technology.
+• Authored low-level validation tests in C and assembly for Intel® Virtualization Technology (VT-x) on next-gen Xeon
+processors, analyzing complex hardware specifications
+• Discovered critical silicon bug during pre-production testing through systematic debugging, communicating findings to
+cross-functional teams and enabling timely microcode patch
+• Designed thin hypervisor to stress-test nested VM scenarios, presenting test results in weekly team reviews and
+incorporating feedback from experienced engineers
+• Collaborated with hardware design teams in Oregon to reproduce and document edge cases, translating technical
+findings into actionable bug reports
+• Enhanced validation coverage by contributing to technical reviews and knowledge-sharing sessions, accelerating
+expertise development in processor architecture
+EDUCATION
+UNIVERSITY OF FLORIDA - Gainesville, FL - May 2014
+• Bachelor’s Degree, Computer Science

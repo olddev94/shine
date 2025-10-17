@@ -1,0 +1,98 @@
+Thomas Pappas
+Senior Full-Stack Software Engineer
+727-339-0767
+thomas.marklin.pappas@outlook.com
+www.linkedin.com/in/thomas-marklin-pappas
+Plant City, FL
+SUMMARY
+Experienced Full-Stack Software Engineer with 9+ years building high-performance web applications at scale. Core
+expertise in Node.js/JavaScript ecosystem and React, with proven track record delivering consumer-facing products serving
+millions of users. From architecting Airbnb's category-driven discovery system to building Brex's financial dashboard from
+zero, I specialize in creating intuitive frontend experiences backed by scalable microservices. Additional experience with
+Java/Spring Boot in fintech and e-commerce contexts.
+SKILLS
+Languages & Frameworks: JavaScript/TypeScript, Node.js, React, Express.js, Next.js, Redux, Vue.js, Angular, HTML5,
+CSS3, Sass/SCSS, C/C++, Java, Python, Go, GraphQL, REST APIs, Jest, React Testing Library, Webpack, Babel
+Database: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Oracle, DynamoDB, Cassandra
+Cloud & DevOps: AWS (EC2, S3, RDS, Lambda, EKS, …), GCP (GKE, Cloud SQL, Cloud Pub/Sub, …), Docker,
+Kubernetes, CI/CD (Jenkins, GitHub Actions, GitLab CI), Infrastructure as Code (Terraform), Microservices Architecture
+Technologies & Tools: Git, npm/yarn, Webpack, Vite, WebSockets, Socket.io, Kafka, RabbitMQ, nginx, PM2, Postman,
+Chrome DevTools, DataDog, New Relic, Jira, Agile/Scrum, TDD/BDD, Performance Optimization, SEO, Accessibility
+(WCAG), Figma
+WORK EXPERIENCE
+SENIOR SOFTWARE ENGINEER - Airbnb / San Francisco, CA - Jul 2021 – Present
+I drove contributions to two of Airbnb's most transformative product launches, from fundamentally re-architecting core
+user discovery with Airbnb Categories (2022 Summer Release) to driving global brand resonance by launching the
+culturally-defining Icons category (2024 Summer Release).
+• Led frontend development for Icons platform (2024), building React-based lottery system handling 100K+ daily
+entries (5M+ total) with real-time updates via WebSocket connections and optimistic UI patterns for instant user
+feedback
+• Architected modular CMS using React and Node.js for Icons category featuring 11 limited-edition celebrity/moviethemed stays, implementing drag-and-drop content management that reduced time-to-market by 75%
+• Engineered Airbnb's category-driven discovery system (2022) serving 150M+ users, building performant React
+components with virtualized scrolling for 56 categories and implementing progressive image loading achieving sub-
+200ms render times
+• Developed Split Stays feature frontend enabling multi-property bookings, creating complex React state
+management for coordinating multiple reservations and building animated map visualization showing property
+connections
+• Constructed high-performance GraphQL service layer using Node.js and Apollo Server, implementing DataLoader
+patterns for N+1 query optimization and Redis caching strategies reducing API response times by 80%
+• Built real-time monitoring dashboard with React and D3.js tracking global metrics across 50M+ daily sessions,
+implementing WebSocket-based live updates and interactive data visualizations
+• Optimized frontend bundle size by 60% through code splitting, lazy loading, and tree shaking, while maintaining
+100/100 Lighthouse performance scores across all features
+• Implemented comprehensive accessibility features ensuring WCAG 2.1 AA compliance, including keyboard
+navigation, screen reader support, and RTL layouts for 40+ languages
+• Contributed to Java-based payment processing services handling $75B+ in annual bookings, implementing
+idempotent transaction handling and integrating with 20+ global banking APIs
+SENIOR SOFTWARE ENGINEER - Brex / San Francisco, CA - Jun 2017 – May 2021
+I joined this fintech startup in its early stages, when ideas were still taking shape, as one of the first-generation engineers.
+My role involved translating complex financial business logic into code and developing Brex.com along with user
+dashboards.• Architected and launched Brex's original React dashboard from zero, implementing real-time transaction feeds
+with WebSocket connections and building reusable component library that became foundation for all products
+• Spearheaded Brex Cash integration transforming single-product platform into comprehensive financial OS,
+designing unified React interface displaying dual-product balances with seamless context switching
+• Built Node.js middleware layer connecting frontend to Java Spring Boot microservices, implementing request
+batching and caching strategies that reduced API calls by 70%
+• Developed responsive onboarding flow using React and Redux, integrating Plaid API for instant bank verification
+and reducing credit decision time from weeks to under 10 minutes
+• Created real-time financial visualizations using React and Chart.js, building interactive spending analytics
+dashboard that increased user engagement by 40%
+• Implemented secure money movement features with React forms featuring real-time validation, building Java
+backend services for ACH/wire payments handling $100M+ monthly volume
+• Established frontend testing standards achieving 90%+ code coverage with Jest and React Testing Library,
+reducing production bugs by 65%
+SOFTWARE ENGINEER - SHEIN / Los Angeles, CA - Mar 2015 – May 2017
+During my time at SHEIN, the company was focused on driving innovation through new technologies. To meet growing
+user demand for better services and a more seamless experience, we redesigned the customer-facing website and
+upgraded the backend infrastructure with a microservices architecture.
+• Crafted Lightning Deals module initially with jQuery and vanilla JavaScript, later migrating to Vue.js with real-time
+countdown timers and AJAX polling for inventory updates, driving 3x increase in click-through rates and $10M+
+incremental revenue
+• Migrated product review system to microservices, building responsive UI components using jQuery and Bootstrap,
+later refactoring to Vue.js components, implementing Redis caching that reduced load times by 85%
+• Developed responsive product gallery using CSS3 transitions and jQuery plugins for image carousels,
+implementing lazy loading with Intersection Observer API, supporting 50K+ concurrent users during flash sales
+• Built RESTful API integration layer using jQuery AJAX and later axios, implementing client-side caching strategies
+and request debouncing to reduce server load by 60%
+• Implemented A/B testing framework using Google Optimize and custom JavaScript, enabling data-driven UI
+decisions and improving conversion rates by 25%
+• Collaborated with design team implementing responsive layouts with Bootstrap grid system and custom SASS,
+ensuring compatibility with IE11+ and all modern browsers
+• Contributed to Java Spring backend services for inventory management and order processing, gaining full-stack
+exposure in e-commerce domain
+SOFTWARE ENGINEER - Intel / Santa Clara, CA - Jun 2014 – Feb 2015
+I began my professional journey at Intel where I had the privilege of working with industry leaders who prioritized product
+excellence and spearheaded advancements in cloud technology.
+• Authored low-level validation tests in C and assembly for Intel® Virtualization Technology (VT-x) on next-gen
+Xeon processors, analyzing complex hardware specifications
+• Discovered critical silicon bug during pre-production testing through systematic debugging, communicating findings
+to cross-functional teams and enabling timely microcode patch
+• Designed thin hypervisor to stress-test nested VM scenarios, presenting test results in weekly team reviews and
+incorporating feedback from experienced engineers
+• Collaborated with hardware design teams in Oregon to reproduce and document edge cases, translating technical
+findings into actionable bug reports
+• Enhanced validation coverage by contributing to technical reviews and knowledge-sharing sessions, accelerating
+expertise development in processor architecture.
+EDUCATION
+UNIVERSITY OF FLORIDA - Gainesville, FL - May 2014
+• Bachelor’s Degree, Computer Science

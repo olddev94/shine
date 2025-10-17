@@ -1,0 +1,91 @@
+Thomas Pappas
+Senior Backend Engineer
+727-339-0767
+thomas.marklin.pappas@outlook.com
+www.linkedin.com/in/thomas-marklin-pappas
+Plant City, FL
+SUMMARY
+Experienced Software Engineer with 9+ years of expertise in Python, full-stack development, and building scalable
+distributed systems. Proficient in developing high-performance applications from core banking systems to high-traffic ecommerce platforms using Python-based microservices architecture, data engineering pipelines, and cloud technologies
+(AWS, Docker, Kubernetes). Skilled in backend frameworks (Django, FastAPI, Flask) and modern frontend technologies
+(React, Vue.js). Committed to delivering high-impact software that drives business growth through clean, maintainable code
+and data-driven solutions.
+SKILLS
+Languages & Frameworks: Python, Django, FastAPI, Flask, SQLAlchemy, Celery, Go, JavaScript, Node.js, React, Vue.js,
+REST APIs, GraphQL, Microservices Architecture, Java, Spring Boot
+Database: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Oracle, DynamoDB
+Cloud: AWS (EC2, S3, RDS, Lambda, EKS, …), GCP (GKE, Cloud SQL, Cloud Pub/Sub, …), Docker, Kubernetes
+Technologies & Tools: pip, Poetry, pytest, Apache Kafka, RabbitMQ, Jenkins, Git, GitHub Actions, CircleCI, Terraform,
+PyCharm, VS Code, JIRA, Agile, Scrum, TDD, Postman, Swagger
+WORK EXPERIENCE
+SENIOR SOFTWARE ENGINEER - Airbnb / San Francisco, CA - Jul 2021 – Present
+I drove contributions to two of Airbnb's most transformative product launches, from fundamentally re-architecting core
+user discovery with Airbnb Categories (2022 Summer Release) to driving global brand resonance by launching the
+culturally-defining Icons category (2024 Summer Release).
+• Led technical development for Icons platform (2024), Airbnb's cultural marketing initiative featuring extraordinary
+experiences, designing lottery system handling 100K+ daily entries (5M+ total) using Python FastAPI with async event
+processing via Kafka and PostgreSQL
+• Created modular CMS using Django REST Framework for Icons category featuring 11 limited-edition celebrity/moviethemed stays, implementing custom Django admin interfaces that reduced content update time by 75%
+• Orchestrated zero-downtime deployment strategy using Python-based deployment scripts and Kubernetes rolling
+updates, managing 300%+ traffic spikes during launches while maintaining 99.99% uptime
+• Architected Airbnb's largest platform transformation (2022), building Python microservices with FastAPI to replace
+destination-based search with category-driven discovery system serving 150M+ users globally
+• Engineered Split Stays feature using Django and Celery for async task processing, enabling multi-property bookings
+through distributed transaction management with saga pattern implementation
+• Constructed high-performance GraphQL service layer using Graphene-Python and optimized React frontend,
+achieving sub-200ms load times through strategic Redis caching and CDN integration
+• Implemented ML-powered property classification pipeline using Python, scikit-learn, and TensorFlow, processing 6M+
+listings with 95%+ accuracy through computer vision and NLP analysis
+• Built real-time monitoring dashboards using Python data pipelines with Pandas and Apache Airflow, tracking global
+metrics across 50M+ daily sessions
+• Maintain 10+ critical Python microservices processing $75B+ in annual bookings, utilizing asyncio for highconcurrency payment processing with 99.9% SLA
+• Mentor team of 5 engineers on Python best practices, async programming patterns, and clean architecture principles,
+facilitating 3 promotions
+• Champion accessibility initiatives implementing WCAG 2.1 AA compliance, building Python middleware for multilanguage support across 40+ locales
+SENIOR SOFTWARE ENGINEER - Brex / San Francisco, CA - Jun 2017 – May 2021
+I joined this fintech startup in its early stages, when ideas were still taking shape, as one of the first-generation engineers.
+My role involved translating complex financial business logic into code and developing Brex.com along with userdashboards.
+• Spearheaded Brex Cash integration using Django and Django Channels for real-time updates, transforming singleproduct platform into comprehensive financial operating system serving 10,000+ businesses
+• Constructed secure money movement infrastructure using Python with SQLAlchemy ORM, implementing ACH/wire
+payment rails with idempotent transaction processing handling $100M+ monthly volume
+• Delivered unified financial dashboard using Django templates and React, creating responsive UI with WebSocket
+connections for real-time balance updates that increased retention by 40%
+• Built event-driven transaction ledger system with Python, Celery, and PostgreSQL, implementing double-entry
+bookkeeping with sub-second updates across all financial products
+• Pioneered original Brex onboarding flow using Flask and WTForms, launching company's first user-facing product that
+acquired initial 1,000+ customers
+• Automated underwriting system integrating Plaid API with Python async workers, reducing credit decisions from weeks
+to under 10 minutes using rule-based decision engine
+• Optimized data processing pipeline using Pandas and NumPy for analyzing cash flow patterns, enabling instant credit
+limit calculations through statistical modeling
+• Shipped RESTful APIs using Django REST Framework for core banking features including transaction feeds, card
+controls, and webhook notifications
+SOFTWARE ENGINEER - SHEIN / Los Angeles, CA - Mar 2015 – May 2017
+During my time at SHEIN, the company was focused on driving innovation through new technologies. To meet growing
+user demand for better services and a more seamless experience, we redesigned the customer-facing website and
+upgraded the backend infrastructure with a microservices architecture.
+• Crafted Lightning Deals service using Python Flask handling 50K+ concurrent users, implementing real-time inventory
+management with Redis pub/sub and connection pooling
+• Migrated product review system from PHP monolith to Python microservices using Django, designing RESTful APIs
+with pagination and implementing Redis caching that reduced load times by 85%
+• Produced responsive Lightning Deals frontend module using jQuery and AJAX (pre-React era), driving 3x increase in
+click-through rates and $10M+ incremental revenue
+• Containerized Python services with Docker, implementing Gunicorn with gevent workers for high-concurrency
+handling during peak sales events
+• Contributed to architecture reviews introducing Python design patterns, implementing circuit breakers using pybreaker library for improved system resilience
+SOFTWARE ENGINEER - Intel / Santa Clara, CA - Jun 2014 – Feb 2015
+I began my professional journey at Intel where I had the privilege of working with industry leaders who prioritized product
+excellence and spearheaded advancements in cloud technology.
+• Authored low-level validation tests in C/C++ and assembly for Intel® Virtualization Technology (VT-x) on next-gen
+Xeon processors, analyzing complex hardware specifications
+• Discovered critical silicon bug during pre-production testing through systematic debugging, communicating findings to
+cross-functional teams and enabling timely microcode patch
+• Designed thin hypervisor to stress-test nested VM scenarios, presenting test results in weekly team reviews and
+incorporating feedback from experienced engineers
+• Collaborated with hardware design teams in Oregon to reproduce and document edge cases, translating technical
+findings into actionable bug reports
+• Enhanced validation coverage by contributing to technical reviews and knowledge-sharing sessions, accelerating
+expertise development in processor architecture
+EDUCATION
+UNIVERSITY OF FLORIDA - Gainesville, FL - May 2014
+• Bachelor’s Degree, Computer Science

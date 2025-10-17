@@ -1,0 +1,110 @@
+Jakub Marczynski – Senior Full Stack Engineer
+Poland • jakubmarczynski509@gmail.com • linkedin.com/in/jakub926
+SUMMARY OF QUALIFICATIONS
+● Highly skilled Software Engineer with 9+ years of experience and expertise in TypeScript, Node.js, React, Angular, and
+AWS. Possesses a solid foundation in machine learning, with a particular focus on natural language processing.
+● Proven ability to collaborate with cross-functional teams, including product managers, UX designers, non-technical
+stakeholders, and other team members, to deliver innovative and scalable solutions.
+● Known for taking ownership of projects, always curious and proactive in exploring new technologies and optimizing
+development processes. Dedicated to enhancing product performance and user experience through continuous learning and
+improvement.
+RELEVANT EXPERIENCE
+Zalando Oct 2018 – Jun 2025
+Senior Software Engineer, Team Lead
+● Led the frontend development of 20+ projects, ensuring pixel-perfect implementations using TypeScript, React, Angular and
+Tailwind CSS while driving the architecture and delivery of complex UIs.
+● Served as team leader by organizing team meetings, tracking progress, and providing a forum for discussion.
+● Collaborated with three material scientists to develop a data visualization platform from scratch, processing data and
+enhancing analysis through advanced graphical representation and interactive features.
+● Designed and implemented AWS infrastructure for an e-commerce company to handle up to 10,000 requests per second,
+utilizing ECS, RDS, S3, CloudFront, Lambda, ELB, DynamoDB, and API Gateway to ensure scalability, performance,
+and security.
+● Developed an AI chatbot for financial PDF documents using Pinecone, VoyageAI, and OpenAI, integrating advanced
+technologies to improve interactions with financial data and enhance user engagement.
+● Ensured security for a healthcare company by implementing comprehensive measures to achieve HIPAA compliance,
+including data encryption, access controls, audit logging, and secure communication protocols.
+Accenture Mar 2017 – Aug 2018
+Full Stack Engineer
+● Developed Nike checkout and payment services to handle traffic of 10 million daily global transactions, utilizing Express.js,
+React and AWS.
+● Integrated Iframes for credit cards and bank accounts to secure 80% of all consumer traffic and prevent CSRF, cross-site
+scripting and cookie-jacking.
+● Led “Your Transactions” implementation for React to showcase consumer transactions and reduce call center costs by $25
+million.
+● Recovered Saudi Arabia checkout failure impacting 4000+ customers due to incorrect GET form redirection.
+Butterfly Network, Inc. Jun 2015 – Feb 2017
+Full Stack Engineer
+● Developed and optimized Node.js APIs for Elasticsearch by refining query structures and implementing efficient indexing
+strategies, achieving a 40% reduction in search latency and a 25% increase in query throughput.
+● Built a responsive and intuitive search interface using React, including features like autocomplete and search suggestions.
+● Implemented role-based authentication and authorization with OAuth 2.0, JWT, and SSO, using fine-grained access controls
+to secure application access and manage user permissions effectively.
+● Designed and implemented MongoDB sharding and replication strategies, configuring shard keys for optimal data
+distribution and managing replica sets to ensure high availability and fault tolerance.
+RELEVANT PROJECT EXPERIENCE
+Contextualize
+● Develop a data visualization platform from scratch, leveraging React, Node.js and AWS.
+● Engineered robust data processing pipelines using Python and Pandas, integrating and transforming large datasets for
+visualization with Apache Spark to handle big data efficiently.
+● Created interactive visualizations with D3.js and Plotly to facilitate detailed analysis of material science data.Dripshop
+● Employed AWS ELB to distribute incoming traffic across multiple ECS tasks, ensuring even load distribution and high
+availability.
+● Integrated AWS Lambda for serverless processing and API Gateway to manage and scale RESTful APIs efficiently.
+● Set up Amazon CloudWatch for real-time monitoring and logging, and implemented AWS WAF and AWS Shield to protect
+against web application attacks and DDoS threats.
+● Developed and deployed complex automation scripts using Terraform to streamline infrastructure provisioning and
+management.
+CapixAI
+● Utilizing VoyageAI for word embeddings to generate accurate text representations from large volumes of documents.
+● Implemented Pinecone for similarity search to identify relevant document segments and provide citations for AI-generated
+content, enabling users to verify the information.
+● Designed and integrated a GraphQL API to facilitate efficient data retrieval and interaction between the frontend and
+backend.
+● Developed and executed unit tests using Jest and end-to-end tests using Cypress for both frontend and backend
+components, improving test coverage to 90%.
+EDUCATION
+Texas Tech University 05/2015
+Bachelor’s Degree in Computer Science
+TECHNICAL PROFICIENCIES
+Languages
+● JavaScript
+● TypeScript
+● Python
+Backend
+● Node.js – Express.js, Nest.js
+● Python – FastAPI, Django, Flask
+● GraphQL – Apollo, Hasura
+● ORM – Prisma, TypeORM
+● SQL – PostgreSQL, MySQL, Oracle, SQL Server
+● NoSQL – MongoDB, DynamoDB, Firestore,
+Cassandra
+● Caching – Redis, Memcached
+● Data warehouse – RedShift, BigQuery, Clickhouse,
+Snowflake
+● Container – Docker, Kubernetes
+● IaC – Terraform, Pulumi, Ansible, Chef, Puppet
+● Messaging Systems – Kafka, RabbitMQ, BullMQ
+● Cloud Services – EC2, S3, Lambda, RDS,
+CloudFront, ECS, EKS, CloudWatch, ELB, Auto
+Scaling, Route 53, API Gateway, IAM, SQS, SNS
+● CI/CD – Github Actions, Jenkins
+Natural Language Processing
+● OpenAI
+● LangChain
+● Pinecone
+● Word embeddings
+Frontend
+● React
+● Next.js
+● Angular
+● Vue.js
+● Tailwind
+● RESTful API
+● GraphQL
+QA
+● Unit testing – Jest, Mocha
+● E2E testing – Cypress, Puppeteer
+Tools & Methodology
+● Agile
+● Scrum
+● Kanban

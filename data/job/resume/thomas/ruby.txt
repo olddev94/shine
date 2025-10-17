@@ -1,0 +1,96 @@
+Thomas Pappas
+Senior Ruby on Rails Engineer
+727-339-0767
+thomas.marklin.pappas@outlook.com
+www.linkedin.com/in/thomas-marklin-pappas
+Plant City, FL
+SUMMARY
+Experienced Software Engineer with 9+ years of expertise in Ruby on Rails, full-stack development, and building scalable
+web applications. Proficient in developing high-performance solutions from fintech platforms to e-commerce systems using
+Rails, PostgreSQL, and modern JavaScript frameworks. Skilled in RESTful API design, background job processing (Sidekiq,
+Resque), and cloud deployment (AWS, Heroku). Committed to writing clean, maintainable code following Rails best
+practices and delivering features that drive business growth.
+SKILLS
+Languages & Frameworks: Ruby, Ruby on Rails, RSpec, Capybara, Sinatra, JavaScript, CoffeeScript, jQuery, React,
+Vue.js, Node.js, HTML5, CSS3, SASS, Bootstrap, Turbo, Stimulus
+Database: PostgreSQL, MySQL, Redis, MongoDB, ActiveRecord, Database Optimization, SQL
+Cloud & Infrastructure: AWS (EC2, S3, RDS, Lambda, EKS, …), GCP (GKE, Cloud SQL, Cloud Pub/Sub, …), Heroku,
+Docker, Nginx, Puma, Unicorn, Passenger
+Technologies & Tools: Sidekiq, Resque, Delayed Job, Git, GitHub, Capistrano, CircleCI, Travis CI, RubyMine, Sublime
+Text, HAML, ERB, Webpack, REST APIs, GraphQL, Agile, TDD/BDD, RuboCop
+WORK EXPERIENCE
+SENIOR SOFTWARE ENGINEER - Airbnb / San Francisco, CA - Jul 2021 – Present
+I drove contributions to two of Airbnb's most transformative product launches, from fundamentally re-architecting core
+user discovery with Airbnb Categories (2022 Summer Release) to driving global brand resonance by launching the
+culturally-defining Icons category (2024 Summer Release).
+• Led backend development for Icons platform (2024) using Rails 7, implementing lottery system handling 100K+ daily
+entries with ActiveJob and Sidekiq for background processing, PostgreSQL for data persistence, and Rails caching
+strategies
+• Built modular CMS using Rails engines and ActiveAdmin, enabling marketing teams to manage Icons listings (Up
+house, X-Mansion, etc.) without deployments, reducing content update time by 75%
+• Orchestrated zero-downtime deployments using Capistrano and blue-green deployment strategies, managing 300%+
+traffic spikes during launches while maintaining 99.99% uptime through careful database migrations and caching
+• Architected category-driven discovery system (2022) serving 150M+ users, building Rails services with fragment
+caching and Russian doll caching to handle 56 property categories efficiently
+• Engineered Split Stays feature using Rails service objects and form objects for complex multi-property bookings,
+implementing database transactions with ActiveRecord to ensure data consistency
+• Developed GraphQL API layer using graphql-ruby gem alongside RESTful endpoints, achieving sub-200ms response
+times through query optimization and Redis caching
+• Implemented property classification pipeline using Rails ActiveJob with Sidekiq, processing 6M+ listings through
+background workers integrated with third-party ML services
+• Built real-time monitoring dashboards using Rails ActionCable for WebSocket connections, tracking metrics across
+50M+ daily sessions
+• Maintain critical Rails applications processing $75B+ in annual bookings, implementing service objects and decorators
+for clean separation of business logic
+• Mentor team through Rails best practices, code reviews focusing on Rails conventions, and promoting test-driven
+development with RSpec
+• Champion accessibility initiatives ensuring WCAG compliance in Rails views, implementing I18n for 40+ languages
+using Rails internationalization
+SENIOR SOFTWARE ENGINEER - Brex / San Francisco, CA - Jun 2017 – May 2021
+I joined this fintech startup in its early stages, when ideas were still taking shape, as one of the first-generation engineers.
+My role involved translating complex financial business logic into code and developing Brex.com along with userdashboards.
+• Spearheaded Brex Cash integration using Rails 5.2, building service layer with clean separation between financial
+logic and Rails controllers, serving 10,000+ businesses
+• Constructed money movement infrastructure using Rails with Sidekiq for asynchronous payment processing,
+implementing idempotency keys in PostgreSQL to prevent duplicate transactions
+• Delivered React frontend integrated with Rails API using react-rails gem, creating unified dashboard that increased
+customer retention by 40%
+• Built transaction ledger system using Rails models with PostgreSQL, leveraging ActiveRecord callbacks and database
+triggers for real-time balance updates
+• Pioneered Brex's initial Rails application from rails new, establishing conventions, gem selection, and deployment
+pipeline that scaled to serve 1,000+ customers
+• Automated underwriting system integrating Plaid API through Rails services, using background jobs for async
+processing to reduce decision time to under 10 minutes
+• Optimized database queries using includes, joins, and Rails query interface, analyzing slow queries with rack-miniprofiler and bullet gem
+• Shipped RESTful APIs following Rails conventions with proper versioning, authentication using Devise, and JSON
+serialization with ActiveModel Serializers
+SOFTWARE ENGINEER - SHEIN / Los Angeles, CA - Mar 2015 – May 2017
+During my time at SHEIN, the company was focused on driving innovation through new technologies. To meet growing
+user demand for better services and a more seamless experience, we redesigned the customer-facing website and
+upgraded the backend infrastructure with a microservices architecture.
+• Crafted Lightning Deals feature in Rails handling 50K+ concurrent users, implementing Redis-based inventory tracking
+with atomic operations and Rails Action Cable for real-time updates
+• Migrated review system from Rails monolith to service-oriented architecture, using Rails API-only mode and Grape
+for lightweight API services
+• Produced responsive frontend using Rails asset pipeline with CoffeeScript and jQuery (standard for 2015-2017),
+achieving 3x increase in conversions
+• Implemented caching strategies using Rails fragment caching and Redis, achieving 99.9% uptime during Black Friday
+sales
+• Contributed to Rails upgrade from 4.2 to 5.0, updating deprecated methods and ensuring gem compatibility across
+the application
+SOFTWARE ENGINEER - Intel / Santa Clara, CA - Jun 2014 – Feb 2015
+I began my professional journey at Intel where I had the privilege of working with industry leaders who prioritized product
+excellence and spearheaded advancements in cloud technology.
+• Authored low-level validation tests in C and assembly for Intel® Virtualization Technology (VT-x) on next-gen Xeon
+processors, analyzing complex hardware specifications
+• Discovered critical silicon bug during pre-production testing through systematic debugging, communicating findings to
+cross-functional teams and enabling timely microcode patch
+• Designed thin hypervisor to stress-test nested VM scenarios, presenting test results in weekly team reviews and
+incorporating feedback from experienced engineers
+• Collaborated with hardware design teams in Oregon to reproduce and document edge cases, translating technical
+findings into actionable bug reports
+• Enhanced validation coverage by contributing to technical reviews and knowledge-sharing sessions, accelerating
+expertise development in processor architecture
+EDUCATION
+UNIVERSITY OF FLORIDA - Gainesville, FL - May 2014
+• Bachelor’s Degree, Computer Science

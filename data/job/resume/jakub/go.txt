@@ -1,0 +1,41 @@
+Jakub Marczynski
+Poland | jakubmarczynski509@gmail.com | linkedin.com/in/jakub926
+Skills
+Programming Languages: Go (Golang), JavaScript/TypeScript, Python
+Libraries & Frameworks: Gin, Echo, Fiber, Gorm, Go-kit, Gorilla, gRPC, React, Next.js, Angular, Express, Django, FastAPI
+Database: PostgreSQL, MySQL, MongoDB, Cassandra, Redis, ElasticSearch
+Cloud Service: AWS, GCP, Azure
+DevOps & Tools: Microservices, Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD, Kafka, RabbitMQ, New Relic,
+Grafana, Prometheus, Datadog, Agile, Scrum, Kanban, Github, Gitlab
+Experience
+Senior Backend Engineer, Team Lead, Zalando October 2018 – June 2025
+● Engineered backend systems from scratch, handling User CRUD, publishing/scheduling, and automated endpoint
+descriptions with Swagger; improved overall system reliability through robust scheduling features and statuses.
+● Developed backend endpoints for membership, charges, and account plans, integrating with payment gateway (Stripe)
+which enhanced API performance, leading to a 25% increase in system throughput.
+● Achieved seamless integration of client SAP systems using Go, AWS, and bidirectional syncing in a containerized
+environment on Docker, orchestrated with Kubernetes, improving operational efficiency and deployment simplicity.
+● Optimized database performance through advanced indexing strategies in PostgreSQL, resulting in a 40% reduction in
+average query times and substantially enhancing system efficiency.
+● Designed real-time financial data service using Go, gRPC, Cassandra, and RabbitMQ, containerized with Docker and
+orchestrated via Kubernetes on AWS EC2, significantly improving performance with scalable, managed infrastructure.
+● Boosted message distribution speed by implementing horizontal scaling on Kafka, enabling efficient scaling of pods and
+improving service responsiveness to meet the demands for a 45% increase in investor traffic.
+● Automated CI/CD pipelines utilizing Docker, and GitHub actions for consistent deployment, reducing human errors by 99%
+and accelerating deployment speed by 80% for application changes.
+Senior Backend Developer, Accenture March 2017 – August 2018
+● Developed Go-based microservices to aggregate exchange data, relay information to the backend, use Kafka as a message
+broker, and deploy them on Amazon for auto-scaling and load balancing.
+● Created efficient RESTful APIs with TypeScript, Golang, and Python for seamless data integration and interactions, ensuring
+efficient data retrieval and synchronization with back-end services.
+● Integrated role-based authentication and authorization with OAuth 2.0, JWT, and SSO, employing fine-grained access
+controls to secure application access and effectively manage user permissions.
+● Launched a utility tool to verify user distribution accuracy for AB testing, applying complex distribution rules with ABAC
+integration, resulting in more reliable test outcomes and a 15% increase in conversion rate.
+Backend Developer, Butterfly Network, Inc. June 2015 – February 2017
+● Collaborated in diagnosing and fixing 30 minor issues within core backend services, contributing to enhanced system
+stability and reliability.
+● Acquired considerable experience with containerization and orchestration technologies such as Kubernetes and Docker, as
+well as with Firebase and environments emphasizing Test-Driven Development.
+Education
+Texas Tech University – Bachelor’s Degree, Computer Science September 2011 – May 2015

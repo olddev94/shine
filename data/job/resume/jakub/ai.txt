@@ -1,0 +1,74 @@
+JAKUB MARCZYNSKI
+Senior Software Engineer, Team Lead
+Poland | jakubmarczynski509@gmail.com | linkedin.com/in/jakub926
+Professional Experience
+Zalando, Senior Software Engineer, Team Lead 10/2018 to 06/2025
+● Utilized Generative AI to simulate potential tumor growth patterns, aiding in the creation of personalized
+treatment plans and contributing to a 10% increase in progression-free survival for patients.
+● Collaborated with a multidisciplinary team to design, develop, and deploy the translation model into the
+platform, using Python, Django, Flask, FastAPI, and other backend technologies.
+● Utilized gRPC for efficient, low-latency communication between microservices.
+● Utilized React/Redux to create dynamic and responsive web applications, enhancing data manipulation and
+user interaction capabilities.
+● Implemented efficient data management strategies using SQL (MySQL, PostgreSQL) and NoSQL (MongoDB,
+DynamoDB) databases, along with GraphQL for data retrieval.
+● Leveraged containerization tools like Docker and orchestration platforms like Kubernetes for deployment and
+scaling of applications.
+● Developed automated test scripts using Playwright for modern web applications, enhancing test reliability and
+execution speed by 40%.
+● Implemented TDD and BDD practices using JUnit and Cucumber-JVM, reducing bug rates by 25%.
+Accenture, Back End Engineer 03/2017 to 08/2018
+● Developed and deployed Python backend systems and machine learning models for various applications,
+including predictive maintenance, customer segmentation, and demand forecasting.
+● Implemented cross-browser testing with Selenium Grid, ensuring compatibility across multiple browsers and
+reducing browser-specific issues by 40%.
+● Developed and maintained complex web applications using Vue.js, improving user engagement and
+satisfaction.
+● Implemented state management with Vuex to manage the application state efficiently.
+● Worked with a team to redesign and migrate legacy applications to Vue.js, enhancing performance and
+maintainability.
+● Utilized Vue Router to manage navigation and ensure a smooth user experience across different parts of the
+application.
+● Collaborated with cross-functional teams to gather requirements, design scalable backend solutions, and
+implement scalable data pipelines using technologies like Apache Spark, Hadoop, and AWS Glue.
+● Developed asynchronous messaging systems with Kafka and RabbitMQ to decouple service dependencies,
+which improved system reliability and scalability during peak loads.
+● Designed and developed backend systems with Python and SQLAlchemy, ensuring efficient database
+interactions and data integrity.
+Butterfly Network, Inc., Back End Developer 06/2015 to 02/2017
+● Designing and implementing server-side logic to ensure high performance and responsiveness to front-end
+requests.
+● Developing reusable code and libraries for future use, optimizing the application for maximum speed and
+scalability.
+● Integrating user-facing elements developed by front-end developers with server-side logic, ensuring the
+technical feasibility of UI/UX designs.
+● Led the development of a new data visualization platform for sustainability reporting using React.
+● Improved user experience and accessibility of web applications by implementing responsive design and
+user-friendly interfaces with React.
+● Led the design and implementation of scalable backend systems using Django and SQLAlchemy.
+● Managing database schemas that represent and support business processes, and implementing data
+protection and security measures.
+● Participating actively in code reviews and enhancing the collaborative development process by providing
+insightful feedback and innovative solutions.● Implemented TypeScript to improve code quality, readability, and maintainability across the frontend
+codebase.
+● Developed reusable components and state management solutions using Redux, streamlining the application's
+data flow.
+Skills
+Languages & Frameworks:
+Python, Go, Java, Django, Flask, FastAPI, Groovy, Snoarqube, JavaScript, TypeScript, React, Vue,
+Angular, Java, SpringBoot
+Cloud Technologies:
+AWS(Glue, S3 bucket, EC2, SageMaker, Lambda, DynamoDB), GCP, Azure
+Data Analysis:
+Numpy, SciPy, Pandas
+Machine Learning Frameworks:
+TensorFlow, PyTorch, Scikit-Learn, Spark/Pyspark
+Database Management:
+SQL(MySQL, PostgreSQL, Oracle), NoSQL(MongoDB, DynamoDB, Cassandra), GraphQL
+DevOps:
+Docker, Kubernetes, Terraform, Bash script, CI/CD pipelines
+Others Tools:
+gRPC, Jupyter Notebook, Redis, ETL, PowerShell, shell scripting, Node.js
+Education
+Texas Tech University 09/2011 to 05/2015
+Bachelor’s degree, Computer Science

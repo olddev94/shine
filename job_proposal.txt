@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+When your payment system needs to handle over 1 million transactions on day one without breaking a sweat, you need a backend engineer who understands both the technical complexity and business impact of scalable architecture. That's exactly what I delivered at Zalando, and it's what I can bring to your Senior Backend Developer role.
+
+With nearly a decade of Java development experience, I've built my expertise around the exact technologies you're seeking. At Zalando, I architected and deployed a high-capacity payment system using Java and Spring Boot, seamlessly integrated with Kafka for message streaming to handle massive transaction volumes. This wasn't just about writing code - it was about creating a robust, fault-tolerant system that could scale with business demands while maintaining data consistency across distributed services.
+
+My Kafka expertise extends beyond basic implementation. I've leveraged its streaming capabilities to build real-time data pipelines that support critical business operations, from payment processing to pricing services. Combined with my deep Java knowledge spanning Spring Boot, microservices architecture, and performance optimization, I understand how to design systems that are both powerful and maintainable.
+
+What sets me apart is my proven ability to lead technical initiatives while mentoring teams. I've trained over 10 developers on secure payment processing and clean coding practices, resulting in measurably improved code quality. At Accenture, I developed microservice architectures that supported new product lines, while at Butterfly Network, I built low-latency, high-availability applications that met demanding performance requirements.
+
+Your team needs someone who can hit the ground running with Java and Kafka while bringing fresh perspectives on scalable architecture. I'm excited to discuss how my experience building million-transaction systems and leading technical teams can contribute to your backend infrastructure goals.
+
+I'd welcome the opportunity to explore how we can work together.
+
+Best regards,
+Jakub Marczynski
+Phone: 322-433-1930
+Email: jakubmarczynski509@gmail.com
+LinkedIn: https://www.linkedin.com/in/jakub926

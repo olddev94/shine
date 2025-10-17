@@ -1,0 +1,41 @@
+Jakub Marczynski
+Senior Elixir Software Engineer
+jakubmarczynski509@gmail.com
+Poland
+SUMMARY
+Dedicated Software Engineer with 9+ years of professional experience, specializing in Elixir, LiveView, full-stack
+development, and scalable web applications. Expert in developing high-performance solutions utilizing PostgreSQL,
+Docker, Kubernetes, Terraform, Ansible on GCP. Proficient in delivering high-quality, well-tested, and efficient code. A team
+player committed to mentoring peers, maintaining best practices, and driving business growth.
+SKILLS
+Languages & Frameworks: Elixir, Phoenix LiveView, JavaScript, React, Angular
+Database: PostgreSQL, MySQL, MongoDB, Cassandra, Redis, Elastic Search
+Cloud & Infrastructure: Docker, Kubernetes, Terraform, Ansible, Jenkins, Grafana, Prometheus, Splunk, GCP, AWS
+Technologies & Tools: GitHub, Oban, Broadway, OTP, GraphQL, Agile, TDD/BDD
+WORK EXPERIENCE
+SENIOR SOFTWARE ENGINEER – Zalando - Jul 2021 – Present
+• Developed transformative product launches such as Airbnb Categories and Icons category.
+• Authored features with Elixir, LiveView, and PostgreSQL.
+• Successfully handled intense traffic due to launches maintaining 99.99% uptime with blue-green deployment
+strategies.
+• Architected category-driven discovery system serving 150M+ users using caching strategies.
+• Comprehensively processed massive listing data with third-party ML services while using PostgreSQL for persistence.
+• Built real-time monitoring dashboards tracking metrics across millions of sessions.
+• Upheld WCAG compliance for over 40 languages.
+SENIOR SOFTWARE ENGINEER - Brex - Jun 2017 – May 2021
+• Joined the fintech startup at the beginning, architecting Brex.com and user dashboards.
+• Built crucial features using Elixir and Postgres, handling real-time balance updates and preventing duplicate
+transactions.
+• Conceived and executed the money movement infrastructure utilizing Kubernetes and Terraform with Oban for
+asynchronous payment processing.
+SOFTWARE ENGINEER – Butterfly Network - Mar 2015 – May 2017
+• Transformed user experience at SHEIN by redesigning the website and upgrading the backend infrastructure to Elixirbased microservices with Google Cloud.
+• Handled real-time updates via Phoenix LiveView, DEPLOYED implementations with ETS for 99.9% uptime during
+Black Friday.
+SOFTWARE ENGINEER – Turing - Jun 2014 – Feb 2015
+• Commenced my professional journey at Intel, working on major projects including authoring low-level validation tests
+in Elixir and assembly, leading to significant system improvements.
+• Found and resolved a critical silicon bug during pre-production testing.
+EDUCATION
+UNIVERSITY OF FLORIDA - Gainesville, FL - May 2014
+• Bachelor’s Degree, Computer Science

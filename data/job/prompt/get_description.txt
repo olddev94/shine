@@ -1,0 +1,29 @@
+Extract and analyze the following job description:
+
+**Job Description Text:**
+{job_description}
+
+**Tasks:**
+1. **Clean Job Description**: Provide a concise summary of key responsibilities and requirements
+2. **Technology Stack**: Classify this job into ONE primary category:
+   - "frontend" - React, Vue, Angular, HTML/CSS, JavaScript UI/UX
+   - "java" - Java, Spring, JVM technologies  
+   - "node" - Node.js, JavaScript backend
+   - "go" - Go/Golang
+   - "dotnet" - .NET, C#, ASP.NET
+   - "elixir" - elixir
+   - "ruby" - Ruby, Rails
+   - "python" - Python, Django, Flask
+   - "ai" - Machine Learning, AI, Data Science, NLP
+   
+**Response JSON Format:**
+{
+    'description': [cleaned summary],
+    'stack': [category],
+}
+
+**Rules:**
+- Choose the MOST PROMINENT technology mentioned
+- If multiple techs exist, pick the primary focus
+- Focus on technical requirements, not nice-to-haves
+- Don't generate any other text except JSON.
